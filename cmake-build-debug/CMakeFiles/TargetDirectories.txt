@@ -1,3 +1,0 @@
-/Users/richard/Desktop/ICPC/ICPC_training/cmake-build-debug/CMakeFiles/ICPC_training.dir
-/Users/richard/Desktop/ICPC/ICPC_training/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/richard/Desktop/ICPC/ICPC_training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
