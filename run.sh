@@ -1,2 +1,2 @@
-g++ -o test 71a.cpp
+g++ -o test 1744c.cpp
 ./test < inputfile
